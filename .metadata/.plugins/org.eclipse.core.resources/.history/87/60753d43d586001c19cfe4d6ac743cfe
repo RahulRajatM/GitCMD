@@ -1,0 +1,18 @@
+package practice;
+
+public class NumberPelindrome {
+
+	public static void main(String[] args) {
+
+		int a= 12321;
+
+		int rev=0;
+		for(int i=a%10; i>0; i=a/10)
+		{
+			i=i%10;
+			rev= rev*10+ i;
+			i=a;
+		}
+		System.out.println(rev);
+	}
+}

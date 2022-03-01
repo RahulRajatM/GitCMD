@@ -1,0 +1,17 @@
+package practice;
+
+public class StringPelindrome {
+
+	public static void main(String[] args) {
+
+		String string= "ACATTACA";
+		String revString="";
+
+		for(int i=string.length();i>=0;i++)
+		{
+			revString=revString+string.charAt(i);
+		}
+		System.out.println(revString);
+
+	}
+}

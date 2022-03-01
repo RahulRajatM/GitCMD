@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;practice.SortingString&apos; to &apos;SortingNumberAsc&apos;&#x0D;&#x0A;- Original project: &apos;JavaPrograms&apos;&#x0D;&#x0A;- Original element: &apos;practice.SortingString&apos;&#x0D;&#x0A;- Renamed element: &apos;practice.SortingNumberAsc&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SortingString&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;practice{SortingString.java[SortingString" matchStrategy="1" name="SortingNumberAsc" qualified="false" references="true" similarDeclarations="false" stamp="1644171397156" textual="false" version="1.0"/>
+</session>

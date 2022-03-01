@@ -1,0 +1,9 @@
+package practice;
+
+public class Pelindrome {
+
+	public static void main(String[] args) {
+		
+		String s= String
+	}
+}
